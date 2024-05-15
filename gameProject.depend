@@ -1,0 +1,105 @@
+# depslib dependency file v1.0
+1715923837 source:e:\tai lieu hoc\c++\projects\gameproject\graphics.cpp
+	"graphics.hpp"
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<bits/stdc++.h>
+	"board.hpp"
+	"defines.hpp"
+	"game.hpp"
+	"pieces.hpp"
+
+1715778431 e:\tai lieu hoc\c++\projects\gameproject\graphics.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	"defines.h"
+
+1715778167 e:\tai lieu hoc\c++\projects\gameproject\defines.h
+
+1715923928 source:e:\tai lieu hoc\c++\projects\gameproject\main.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<bits/stdc++.h>
+	"board.hpp"
+	"game.hpp"
+	"graphics.hpp"
+	"musics.hpp"
+
+1715873880 e:\tai lieu hoc\c++\projects\gameproject\board.hpp
+	<bits/stdc++.h>
+	"defines.hpp"
+	"pieces.hpp"
+
+1715792164 e:\tai lieu hoc\c++\projects\gameproject\defines.hpp
+
+1715792164 e:\tai lieu hoc\c++\projects\gameproject\pieces.hpp
+	<bits/stdc++.h>
+
+1715921289 e:\tai lieu hoc\c++\projects\gameproject\game.hpp
+	"board.hpp"
+	"pieces.hpp"
+
+1715922791 e:\tai lieu hoc\c++\projects\gameproject\graphics.hpp
+	<SDL.h>
+	<SDL_image.h>
+	"board.hpp"
+
+1715792164 source:e:\tai lieu hoc\c++\projects\gameproject\pieces.cpp
+	"pieces.hpp"
+	<bits/stdc++.h>
+
+1715923092 source:e:\tai lieu hoc\c++\projects\gameproject\game.cpp
+	"game.hpp"
+	<bits/stdc++.h>
+	"board.hpp"
+	"defines.hpp"
+	"pieces.hpp"
+
+1715910598 source:e:\tai lieu hoc\c++\projects\gameproject\board.cpp
+	"board.hpp"
+	<bits/stdc++.h>
+	"defines.hpp"
+	"game.hpp"
+	"pieces.hpp"
+
+1715869175 e:\tai lieu hoc\c++\projects\gameproject\pause.hpp
+	<bits/stdc++.h>
+	<SDL.h>
+	"texts.hpp"
+	"game.hpp"
+	"mainMenu.hpp"
+
+1715869678 e:\tai lieu hoc\c++\projects\gameproject\texts.hpp
+	<SDL_ttf.h>
+
+1715869696 e:\tai lieu hoc\c++\projects\gameproject\mainmenu.hpp
+	<bits/stdc++.h>
+	<SDL.h>
+	"texts.hpp"
+	"pause.hpp"
+	"game.hpp"
+
+1715870219 source:e:\tai lieu hoc\c++\projects\gameproject\texts.cpp
+	"texts.hpp"
+	<SDL.h>
+
+1715870477 source:e:\tai lieu hoc\c++\projects\gameproject\mainmenu.cpp
+	"mainMenu.hpp"
+	"graphics.hpp"
+
+1715870453 source:e:\tai lieu hoc\c++\projects\gameproject\pause.cpp
+	"pause.hpp"
+	"graphics.hpp"
+
+1715924307 source:e:\tai lieu hoc\c++\projects\gameproject\musics.cpp
+	"musics.hpp"
+
+1715923409 e:\tai lieu hoc\c++\projects\gameproject\musics.hpp
+	<SDL.h>
+	<SDL_mixer.h>
+	<bits/stdc++.h>
+

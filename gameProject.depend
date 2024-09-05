@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1715923837 source:e:\tai lieu hoc\c++\projects\gameproject\graphics.cpp
+1715924669 source:e:\tai lieu hoc\c++\projects\gameproject\graphics.cpp
 	"graphics.hpp"
 	<SDL.h>
 	<SDL_image.h>
@@ -19,7 +19,7 @@
 
 1715778167 e:\tai lieu hoc\c++\projects\gameproject\defines.h
 
-1715923928 source:e:\tai lieu hoc\c++\projects\gameproject\main.cpp
+1715924669 source:e:\tai lieu hoc\c++\projects\gameproject\main.cpp
 	<SDL.h>
 	<SDL_image.h>
 	<SDL_mixer.h>
@@ -29,37 +29,37 @@
 	"graphics.hpp"
 	"musics.hpp"
 
-1715873880 e:\tai lieu hoc\c++\projects\gameproject\board.hpp
+1715924669 e:\tai lieu hoc\c++\projects\gameproject\board.hpp
 	<bits/stdc++.h>
 	"defines.hpp"
 	"pieces.hpp"
 
-1715792164 e:\tai lieu hoc\c++\projects\gameproject\defines.hpp
+1715924669 e:\tai lieu hoc\c++\projects\gameproject\defines.hpp
 
-1715792164 e:\tai lieu hoc\c++\projects\gameproject\pieces.hpp
+1715924669 e:\tai lieu hoc\c++\projects\gameproject\pieces.hpp
 	<bits/stdc++.h>
 
-1715921289 e:\tai lieu hoc\c++\projects\gameproject\game.hpp
+1715924669 e:\tai lieu hoc\c++\projects\gameproject\game.hpp
 	"board.hpp"
 	"pieces.hpp"
 
-1715922791 e:\tai lieu hoc\c++\projects\gameproject\graphics.hpp
+1717137807 e:\tai lieu hoc\c++\projects\gameproject\graphics.hpp
 	<SDL.h>
 	<SDL_image.h>
 	"board.hpp"
 
-1715792164 source:e:\tai lieu hoc\c++\projects\gameproject\pieces.cpp
+1715924669 source:e:\tai lieu hoc\c++\projects\gameproject\pieces.cpp
 	"pieces.hpp"
 	<bits/stdc++.h>
 
-1715923092 source:e:\tai lieu hoc\c++\projects\gameproject\game.cpp
+1715924669 source:e:\tai lieu hoc\c++\projects\gameproject\game.cpp
 	"game.hpp"
 	<bits/stdc++.h>
 	"board.hpp"
 	"defines.hpp"
 	"pieces.hpp"
 
-1715910598 source:e:\tai lieu hoc\c++\projects\gameproject\board.cpp
+1715924669 source:e:\tai lieu hoc\c++\projects\gameproject\board.cpp
 	"board.hpp"
 	<bits/stdc++.h>
 	"defines.hpp"
@@ -95,10 +95,10 @@
 	"pause.hpp"
 	"graphics.hpp"
 
-1715924307 source:e:\tai lieu hoc\c++\projects\gameproject\musics.cpp
+1715924669 source:e:\tai lieu hoc\c++\projects\gameproject\musics.cpp
 	"musics.hpp"
 
-1715923409 e:\tai lieu hoc\c++\projects\gameproject\musics.hpp
+1715924669 e:\tai lieu hoc\c++\projects\gameproject\musics.hpp
 	<SDL.h>
 	<SDL_mixer.h>
 	<bits/stdc++.h>

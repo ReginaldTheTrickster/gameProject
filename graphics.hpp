@@ -6,10 +6,10 @@
 
 #include "board.hpp"
 
-const int WINDOW_WIDTH=1000;
-const int WINDOW_HEIGHT=800;
+const int WINDOW_WIDTH=800;
+const int WINDOW_HEIGHT=640;
 
-const int TILE_SIZE=100;
+const int TILE_SIZE=80;
 
 namespace Graphics{
     void initSDL();
